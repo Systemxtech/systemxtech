@@ -38,7 +38,6 @@ My mission goes beyond business: I strive to connect people, ideas, and technolo
 - 📊 **Growth Strategist & Chart Analysis**
 - 🌐 **Business Development**
 - 🗣️ **Communication & Relationship Management**
-- 🤖 **Python, Machine Learning, Deep Learning**
 
 ---
 
